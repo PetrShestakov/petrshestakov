@@ -4,7 +4,7 @@
 
 ### IT Specialist / IT-специалист
 
-**Python · HTML · JavaScript**
+**Swift · Python · JavaScript · HTML**
 
 Interested in programming, technology and building practical projects.
 
@@ -14,11 +14,13 @@ Interested in programming, technology and building practical projects.
 
 ---
 
-## 🚀 Programming Languages / Языки программирования
+## 🚀 Languages & Technologies / Языки и технологии
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,html,js&theme=dark" alt="Python, HTML, JavaScript" />
+<img src="https://skillicons.dev/icons?i=swift,py,js,html&theme=dark" alt="Swift, Python, JavaScript, HTML" />
+
+**SwiftUI · iOS Development / Разработка для iOS**
 
 </div>
 
@@ -27,6 +29,8 @@ Interested in programming, technology and building practical projects.
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=git,github&theme=dark" alt="Git, GitHub" />
+
+**Xcode · Git · GitHub**
 
 </div>
 

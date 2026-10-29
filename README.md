@@ -47,6 +47,7 @@ Interested in programming, technology and building practical projects.
 
 | Project / Проект | Description / Описание |
 | :--- | :--- |
+| [📖 **Chitalka iOS / Читалка iOS**](https://github.com/PetrShestakov/Chitalka-iOS-App) | iOS e-book reader built with SwiftUI (public showcase) / Читалка книг для iOS на SwiftUI (публичная презентация) |
 | [🐍 **Python-PS**](https://github.com/PetrShestakov/Python-PS) | Python exercises and an HTML/JavaScript calculator / Учебные задачи на Python и калькулятор на HTML/JavaScript |
 | [📡 **ftp**](https://github.com/PetrShestakov/ftp) | Experimental FTP archive downloader and text search / Экспериментальная загрузка архивов по FTP и поиск текста |
 

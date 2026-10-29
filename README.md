@@ -42,7 +42,7 @@ Passionate about technology, programming, and building my own projects.
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrShestakov&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=PetrShestakov&layout=compact&theme=github_dark&hide_border=true&langs_count=8)
 
 </div>
 
@@ -52,11 +52,12 @@ Passionate about technology, programming, and building my own projects.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PetrShestakov&show_icons=true&theme=github_dark&hide_border=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=PetrShestakov&show_icons=true&theme=github_dark&hide_border=true)
 
 </div>
 
 ---
+
 
 ## 📂 Featured Projects / Мои проекты
 

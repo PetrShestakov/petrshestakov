@@ -40,7 +40,7 @@ Interested in programming, technology and building practical projects.
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PetrShestakov&layout=compact&theme=github_dark&hide_border=true&langs_count=8" width="48%" alt="Most used languages / Основные языки" />
+<img src="./assets/language-stats.svg" width="48%" alt="Language distribution including private Swift projects / Статистика языков с учётом приватных проектов" />
 <img src="https://github-stats-extended.vercel.app/api?username=PetrShestakov&show_icons=true&theme=github_dark&hide_border=true" width="48%" alt="GitHub statistics / Статистика GitHub" />
 
 </div>

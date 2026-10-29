@@ -1,0 +1,37 @@
+name: Update language statistics
+
+on:
+  schedule:
+    - cron: '17 7 * * 0'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: language-statistics
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Refresh language statistics
+        env:
+          PRIVATE_LANGUAGE_TOKEN: ${{ secrets.PRIVATE_LANGUAGE_TOKEN }}
+        run: python3 .github/scripts/update_language_stats.py
+
+      - name: Commit updated SVG, when changed
+        run: |
+          git add assets/language-stats.svg
+          if git diff --cached --quiet; then
+            echo 'Language stats unchanged'
+          else
+            git config user.name 'github-actions[bot]'
+            git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+            git commit -m 'docs: refresh language statistics'
+            git push
+          fi
